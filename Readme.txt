@@ -45,8 +45,3 @@ Variable
     let u: undefined = undefined;
 
 
-Function
-
-
-Interface
-
